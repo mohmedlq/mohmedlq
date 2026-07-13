@@ -1,4 +1,4 @@
-#  👋 Hi, I'm Mohammed
+#  👋 Hi, I'm Ibrahim
 
 ## 💻 Backend Developer | ASP.NET Core | C# | SQL
 
