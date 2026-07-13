@@ -31,7 +31,7 @@ Currently, I'm expanding my expertise into **Full Stack Web Development** by int
 - HTML5
 - CSS3
 - SQL
-
+- T-(SQL)
 ---
 
 ### Backend
