@@ -1,180 +1,239 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:0F172A&height=220&section=header&text=Hi%20👋,%20I'm%20Mohmed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20ASP.NET%20Core%20%C2%B7%20C%23%20%C2%B7%20React&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:239120&height=230&section=header&text=Mohmed%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20C%23%20%7C%20ASP.NET%20Core%20%7C%20React&descAlignY=56&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/mohamed-ibrahim-issa-86b960372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Mohmedisa630@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://nashat-seven.vercel.app"><img src="https://img.shields.io/badge/Live%20Project-239120?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<h3>Building software from the database to the interface.</h3>
+
+<p>
+Backend-focused developer working with <b>C#</b> and <b>ASP.NET Core</b>, with a growing focus on <b>React</b> and full-stack application development.
+</p>
+
+<p>
+<a href="https://github.com/mohmedlq">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-ibrahim-issa-86b960372">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Mohmedisa630@gmail.com">
+  <img src="https://img.shields.io/badge/Email-239120?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://nashat-seven.vercel.app">
+  <img src="https://img.shields.io/badge/Nashat-Live%20Project-239120?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
-<br/>
+---
 
-## About Me
+## About
 
-I'm a backend-focused developer building with **ASP.NET Core** and **C#**, currently expanding into full-stack development with **React** and **TypeScript**. I like taking a project from a vague idea to something people actually use — designing the API, modeling the database, and wiring it up to a real frontend.
+I enjoy turning ideas into complete software systems — from **database design and business logic** to **REST APIs and user interfaces**.
 
-Right now I'm sharpening:
+My main focus is backend development with **ASP.NET Core**, while expanding deeper into **React, TypeScript, software architecture, and system design**.
 
-- 🏗️ Backend architecture & clean API design
-- ⚛️ React + TypeScript for full-stack apps
-- 🗄️ Database design & advanced SQL
-- 🔐 Authentication, authorization & app security
-- 🧩 System design fundamentals
+Currently focused on:
+
+* Designing maintainable backend systems
+* Building production-oriented APIs
+* Advanced SQL and database design
+* React + TypeScript application development
+* Authentication, authorization, and application security
+* Software architecture and system design
 
 ---
 
 ## Tech Stack
 
-<table width="100%">
-<tr>
-<td width="18%"><b>🖥️ Backend</b></td>
-<td width="82%">
+### Backend
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-</td>
-</tr>
+### Frontend
 
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:239120,100:0F172A&height=3&section=header" width="100%"/></td></tr>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
-<tr>
-<td width="18%"><b>🎨 Frontend</b></td>
-<td width="82%">
+### Database & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-</td>
-</tr>
-
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:239120,100:0F172A&height=3&section=header" width="100%"/></td></tr>
-
-<tr>
-<td width="18%"><b>🗄️ Database</b></td>
-<td width="82%">
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-</td>
-</tr>
-
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:239120,100:0F172A&height=3&section=header" width="100%"/></td></tr>
-
-<tr>
-<td width="18%"><b>🌐 Other Languages</b></td>
-<td width="82%">
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</td>
-</tr>
-
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:239120,100:0F172A&height=3&section=header" width="100%"/></td></tr>
-
-<tr>
-<td width="18%"><b>🛠️ Tools</b></td>
-<td width="82%">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
 ---
 
-## ⭐ Top Projects
+# Featured Projects
 
-### 🎓 Nashat — نَشَاط
-**AI-powered platform that generates and formats school activity content — reports, broadcasts, and printable documents.**
+## 🎓 Nashat — نَشَاط
 
-Started as a freelance build and grew into a live product teachers actually use. A teacher enters a topic, the backend calls a generative AI API and returns structured JSON, and the frontend renders it as a fully editable document ready to customize, print, or export as a PDF.
+> An AI-powered platform for creating and managing school activity content.
 
+Nashat started as a real-world project and evolved into a live platform for school activity leaders.
+
+Users can describe an activity idea and turn it into structured, editable content such as **school reports and broadcasts**, with support for PDF generation, printing, and customization.
+
+```text
+User Input
+    ↓
+AI Generation
+    ↓
+Structured JSON
+    ↓
+Editable Content
+    ↓
+Print / PDF / Share
 ```
-Teacher input → AI generation → Structured JSON → Editable document UI → Print / Export PDF
-```
 
-- AI-generated activity reports & school broadcasts
-- Editable documents with evidence-image management
-- Multiple report themes, A4-ready printing, PDF export
-- Backend-mediated AI calls — provider credentials never touch the client
+**Highlights**
 
-`React` `TypeScript` `ASP.NET Core` `Generative AI API`
+* AI-generated school reports and broadcasts
+* Arabic-first RTL experience
+* Editable generated documents
+* Multiple report themes
+* PDF generation and printing
+* Evidence-image management
+* Backend-mediated AI integration
+* Designed around real user workflows
 
-**🔗 [Live Application](https://nashat-seven.vercel.app)** · *source is currently private*
+**Stack**
+
+`React` `TypeScript` `ASP.NET Core` `Generative AI` `Tailwind CSS`
+
+<a href="https://nashat-seven.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Application-239120?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+*Source code is currently private.*
 
 ---
 
-### 🚗 DVLD — Drivers & Vehicles Licensing System
-**A large desktop system that models the full workflow of a driving & vehicle licensing department.**
+## 🚗 DVLD — Drivers & Vehicles Licensing System
 
-Covers people, applications, driving tests, licenses, renewals, appointments, international licenses, and detained licenses as one connected business workflow rather than a set of disconnected screens — built on a strict 3-tier architecture.
+> A large desktop system modeling the workflows of a driving and vehicle licensing department.
 
-- Multi-module desktop application with complex business rules
-- Relational database design with role-based access
-- Clean separation of presentation, business, and data-access layers
+A multi-module system built around connected business workflows rather than isolated screens.
+
+The system covers people, applications, driving tests, licenses, renewals, appointments, international licenses, and detained licenses.
+
+**Highlights**
+
+* Complex business workflows
+* Relational database design
+* Multi-layer architecture
+* Role-based access
+* Reusable business components
+* Desktop application with WinForms
+
+**Stack**
 
 `C#` `WinForms` `SQL Server` `ADO.NET` `3-Tier Architecture`
 
-**🔗 [View Repository](https://github.com/mohmedlq/Drivers-Vehicles-Licensing-System)**
+<a href="https://github.com/mohmedlq/Drivers-Vehicles-Licensing-System">
+  <img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### 🏫 Training Center — Backend API
-**A RESTful ASP.NET Core API managing students, instructors, courses, and enrollments.**
+## 🏫 Training Center — Backend API
 
-Built to practice professional backend patterns end-to-end: DTOs so the database is never exposed directly, async EF Core throughout, and SOLID principles applied across every layer via dependency injection.
+> A RESTful ASP.NET Core API for managing students, instructors, courses, and enrollments.
 
-- Students, instructors, courses & enrollment management with duplicate-enrollment protection
-- DTO pattern for safe, clean API contracts
-- SOLID-driven layering: API → Business → Data Access
-- Centralized error handling with a `Result<T>` wrapper pattern
+Built as an end-to-end backend project focused on clean API contracts, layered architecture, and maintainable business logic.
+
+**Highlights**
+
+* Student, instructor, course, and enrollment management
+* DTO-based API contracts
+* Async EF Core operations
+* Dependency Injection
+* SOLID principles
+* Business-layer validation
+* Duplicate enrollment protection
+* Centralized `Result<T>` response handling
+
+**Stack**
 
 `C#` `ASP.NET Core` `EF Core` `SQL Server` `DTOs` `SOLID`
 
-**🔗 [View Repository](https://github.com/mohmedlq/TrainingCenter-Backend)**
+<a href="https://github.com/mohmedlq/TrainingCenter-Backend">
+  <img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-## 📂 More Projects
+## 🏦 Bank Management System
 
-**🏦 [Bank Management System](https://github.com/mohmedlq/bank-management-system-cpp)** — a C++ console banking system covering deposits, withdrawals, transfers, authentication, and file-based persistence. Built to practice OOP fundamentals.
+A C++ console banking system built to practice object-oriented design and persistent data handling.
+
+**Features**
+
+* Authentication
+* Deposits and withdrawals
+* Transfers
+* File-based persistence
+* Transaction workflows
+
+**Stack**
+
 `C++` `OOP` `File Handling`
 
----
-
-## 🎯 What I'm Working Toward
-
-- Ship complete, production-oriented applications — not just tutorial projects
-- Get equally comfortable on both the ASP.NET Core and React sides of the stack
-- Strengthen software architecture & system design skills
-- Contribute to larger, real-world and open-source codebases
+<a href="https://github.com/mohmedlq/bank-management-system-cpp">
+  <img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
+
+## What I'm Building Toward
+
+```text
+Production Applications
+        ↓
+Stronger Backend Engineering
+        ↓
+Software Architecture
+        ↓
+System Design
+        ↓
+Scalable Systems
+```
+
+I'm interested in building software that is **well-designed, useful, and actually used** — not just projects that exist for the sake of having a repository.
+
+---
+
+## Let's Connect
 
 <div align="center">
 
-### 📫 Let's Connect
+<a href="https://www.linkedin.com/in/mohamed-ibrahim-issa-86b960372">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Mohmedisa630@gmail.com">
+  <img src="https://img.shields.io/badge/Mohmedisa630%40gmail.com-239120?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/mohmedlq">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<a href="https://www.linkedin.com/in/mohamed-ibrahim-issa-86b960372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Mohmedisa630@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/mohmedlq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/><br/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:239120&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
